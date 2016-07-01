@@ -1,0 +1,15 @@
+{
+  "main": "src/main.js",
+  "name": "electron-remotty",
+  "description": "",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.5"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shwld",
+  "license": "MIT"
+}
