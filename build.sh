@@ -1,0 +1,1 @@
+./node_modules/.bin/electron-packager src/ electron-remotty --overwrite --platform=darwin --arch=x64 --version=1.2.5 --asar=true --icon=./icon.icns

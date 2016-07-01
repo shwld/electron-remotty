@@ -1,10 +1,8 @@
 {
-  "main": "src/main.js",
+  "main": "main.js",
   "name": "electron-remotty",
   "description": "",
   "devDependencies": {
-    "electron-packager": "^7.1.0",
-    "electron-prebuilt": "^1.2.5"
   },
   "dependencies": {},
   "scripts": {
